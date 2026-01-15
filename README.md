@@ -5,7 +5,7 @@
 This project explores customer behavior and product performance using transactional retail data.
 The goal is to simulate product analytics and funnel-style insights without website event data, focusing instead on revenue concentration, customer retention, and cross-selling opportunities.
 
-The analysis follows a business-driven approach commonly used by entry-level data analysts to support decision-making in product and marketing teams.
+The analysis follows a business-driven approach.
 
 ## Business Questions
 
@@ -32,7 +32,7 @@ Transaction data is used to identify products frequently purchased together, sup
 
 ## Key Insights
 
-- A small percentage of products contribute to the majority of total revenue (Pareto effect).
+- A small percentage of products contribute to the majority of total revenue.
 
 - Customer retention drops significantly after the first purchase month, indicating early churn.
 
